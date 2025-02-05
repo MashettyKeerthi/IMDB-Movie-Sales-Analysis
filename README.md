@@ -12,3 +12,13 @@
 
 **•	Rating and Popularity Relationship:** Examine correlations between IMDb rating, metascore, and the number of votes a movie received. 
 
+## Suggested Visualizations: 
+
+**•	Line Chart -** Gross value trend by year. 
+**•	Bar/Column Chart -** Gross value comparison across genres. 
+**•	Scatter Plot -** IMDb rating vs. gross value or metascore to see if high ratings correlate with higher revenue. 
+**•	Stacked Bar Chart -** Average IMDb rating and metascore by genre.
+**•	Table with Conditional Formatting -** Top 10 movies sorted by gross value, with conditional formatting based on IMDb rating and metascore. 
+**•	KPI Cards -** Highest grossing movie, average IMDb rating, and highest metascore
+
+
