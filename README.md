@@ -5,7 +5,7 @@ This interactive Power BI dashboard analyzes movie sales and provides insights i
 
 ## Technologies Used
 
-![Excel](https://github.com/user-attachments/assets/eb7e523d-18fb-4fb0-93ad-ba0f877abe4d) ![PowerBI](https://github.com/user-attachments/assets/52a57ce0-ee9b-4472-aede-58b5d979e983)
+<img src="https://github.com/user-attachments/assets/afac138f-5d94-436d-afb2-1761bcfc1a23" width="100" height="50" /> <img src="https://github.com/user-attachments/assets/04726459-d460-4321-af5d-cb1c47867a66" width="100" height="50" />
 
 
 ## Dataset Used:
