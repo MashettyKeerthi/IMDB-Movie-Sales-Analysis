@@ -6,8 +6,6 @@ This interactive Power BI dashboard analyzes movie sales and provides insights i
 ## Dataset Used:
 <a href="https://github.com/MashettyKeerthi/IMDB-Movie-Sales-Analysis/blob/main/IMDB_Movie_data.xlsx"> IMDB Movie Sales Data </a>
 
-https://github.com/MashettyKeerthi/IMDB-Movie-Sales-Analysis/blob/main/IMDB_Movie_data.xlsx
-
 ## Key Objectives:
 **•	Annual Trends in Movie Success:** Analyze the yearly trend in gross value and ratings to spot any peak years or declines. 
 
