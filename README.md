@@ -3,6 +3,11 @@
 ## Project Objective:
 This interactive Power BI dashboard analyzes movie sales and provides insights into box office performance across genres, time, and regions. It allows stakeholders to explore patterns, trends, and key factors influencing movie success.
 
+## Technologies Used
+
+![Excel](https://github.com/user-attachments/assets/eb7e523d-18fb-4fb0-93ad-ba0f877abe4d) ![PowerBI](https://github.com/user-attachments/assets/52a57ce0-ee9b-4472-aede-58b5d979e983)
+
+
 ## Dataset Used:
 <a href="https://github.com/MashettyKeerthi/IMDB-Movie-Sales-Analysis/blob/main/IMDB_Movie_data.xlsx"> IMDB Movie Sales Data </a>
 
