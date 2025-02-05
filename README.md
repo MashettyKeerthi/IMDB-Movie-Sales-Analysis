@@ -1,23 +1,29 @@
-# IMDB Movie Sales Analysis Power BI Dashboard
+# **IMDB Movie Sales Analysis Power BI Dashboard**
 "This interactive Power BI dashboard analyzes movie sales and provides insights into box office performance across genres, time, and regions. It allows stakeholders to explore patterns, trends, and key factors influencing movie success."
 
-## Key Objectives
-•	Annual Trends in Movie Success: Analyze the yearly trend in gross value and ratings to spot any peak years or declines. 
+## **Key Objectives**
 
-•	Genre Performance Comparison: Compare genres based on average IMDb rating, meta score, and gross value.
+**•**	**Annual Trends in Movie Success:** Analyze the yearly trend in gross value and ratings to spot any peak years or declines. 
 
-•	Director Impact: Identify directors with high-grossing and top-rated movies. 
+**•	****Genre Performance Comparison:** Compare genres based on average IMDb rating, meta score, and gross value.
 
-•	Cast and Gross Correlation: Explore if certain actors consistently perform in high-grossing films. 
+**•	****Director Impact:** Identify directors with high-grossing and top-rated movies. 
 
-•	Rating and Popularity Relationship: Examine correlations between IMDb rating, metascore, and the number of votes a movie received. 
+**•	****Cast and Gross Correlation:** Explore if certain actors consistently perform in high-grossing films. 
 
-## Suggested Visualizations: 
+**•**	**Rating and Popularity Relationship:** Examine correlations between IMDb rating, metascore, and the number of votes a movie received. 
 
-•	Line Chart - Gross value trend by year. 
-•	Bar/Column Chart - Gross value comparison across genres. 
-•	Scatter Plot - IMDb rating vs. gross value or metascore to see if high ratings correlate with higher revenue. 
-•	Stacked Bar Chart - Average IMDb rating and metascore by genre.
-•	Table with Conditional Formatting - Top 10 movies sorted by gross value, with conditional formatting based on IMDb rating and metascore. 
-•	KPI Cards - Highest grossing movie, average IMDb rating, and highest metascore. 
+## **Suggested Visualizations: **
+
+**•	Line Chart - **Gross value trend by year. 
+
+**•	Bar/Column Chart -** Gross value comparison across genres.
+
+**•	Scatter Plot -** IMDb rating vs. gross value or metascore to see if high ratings correlate with higher revenue. 
+
+**•	Stacked Bar Chart -** Average IMDb rating and metascore by genre.
+
+**•	Table with Conditional Formatting -** Top 10 movies sorted by gross value, with conditional formatting based on IMDb rating and metascore. 
+
+**•	KPI Cards -** Highest grossing movie, average IMDb rating, and highest metascore. 
 
