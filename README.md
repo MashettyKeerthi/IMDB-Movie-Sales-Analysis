@@ -30,10 +30,15 @@
 ## Project Steps:
 
 **•	Data Cleaning and Preparation:** Prepare the dataset by formatting numeric values, handling missing data, and creating calculated columns as needed (e.g., average rating). 
+
 **•	Data Modelling:** Create relationships if additional tables (e.g., Director, Cast) are used for more detail. 
+
 **•	Build Visualizations:** Design visualizations for each objective, ensuring clarity and adding filters for genres, years, and directors. 
+
 **•	Insights and Storytelling:** Provide insights on which genres and directors drive revenue, how ratings affect popularity, and how cast selection impacts a movie’s success. 
+
 **•	Final Report and Presentation:** Summarize the key findings and include any data-driven recommendations in a report or presentation for stakeholders.
+
 **•	Extra Features:** Add slicers for genre, year, and director to enhance interactivity
 
 
